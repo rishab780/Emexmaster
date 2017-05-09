@@ -9,13 +9,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 //import com.example.rishab.emex.Adapter.RecyclerAdapter;
-import com.example.rishab.emex.Adapter.RecyclerViewAdapter;
-import com.example.rishab.emex.JobHistoryModel.JobHistoryModel;
+import com.example.rishab.emex.adapter.RecyclerViewAdapter;
+import com.example.rishab.emex.jobHistoryModel.JobHistoryModel;
 import com.example.rishab.emex.R;
 
 import java.util.ArrayList;
-
-import static java.security.AccessController.getContext;
 
 /**
  * Created by Rishab on 15-04-2017.

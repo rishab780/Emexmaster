@@ -1,4 +1,4 @@
-package com.example.rishab.emex.JobHistoryModel;
+package com.example.rishab.emex.jobHistoryModel;
 
 import android.os.Parcel;
 import android.os.Parcelable;
